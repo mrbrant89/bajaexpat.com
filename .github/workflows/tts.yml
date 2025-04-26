@@ -1,0 +1,45 @@
+name: Generate TTS
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "_posts/**"
+  workflow_dispatch:
+
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+
+    env:
+      GCLOUD_TTS_CREDENTIALS: ${{ secrets.GCLOUD_TTS_CREDENTIALS }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          pip install google-cloud-texttospeech python-frontmatter pydub markdown beautifulsoup4
+
+      - name: Generate TTS audio
+        run: python scripts/generate_tts.py
+
+      - name: Commit and push audio files
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add assets/audio/*.mp3 || true
+          git commit -m "Add TTS audio files" || echo "No changes to commit"
+          git push

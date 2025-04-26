@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+gcloud-key.json
+/generate_tts.py
+localhost.crt
+localhost.key

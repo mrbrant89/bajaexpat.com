@@ -1,0 +1,75 @@
+<!-- start custom footer snippets -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    console.log("✅ Custom footer script loaded");
+
+    // Global: Handle all <a> tags
+    document.querySelectorAll('a').forEach(link => {
+      const hostname = link.hostname;
+
+      // Open external links in new tab
+      if (hostname && hostname !== window.location.hostname) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+
+    // Local: Only within .page__content – superscript link text like [1]
+    const content = document.querySelector('.page__content');
+    if (content) {
+      content.querySelectorAll('a').forEach(link => {
+        const text = link.textContent.trim().replace(/\s+/g, '');
+
+        if (/^\d{1,3}$/.test(text)) {
+          link.innerHTML = `<sup>${text}</sup>`;
+        }
+
+        const bracketed = text.match(/^\[(\d{1,3})\]$/);
+        if (bracketed) {
+          link.innerHTML = `<sup>${bracketed[1]}</sup>`;
+        }
+      });
+    }
+
+    // Global: Make all tables sortable by clicking <th> headers
+    document.querySelectorAll("table").forEach(function (table) {
+      const thead = table.querySelector("thead");
+      if (!thead) return;
+
+      thead.querySelectorAll("th").forEach(function (th, colIndex) {
+        th.style.cursor = "pointer";
+        th.addEventListener("click", function () {
+          const rows = Array.from(table.querySelectorAll("tbody tr"));
+          const ascending = th.classList.toggle("ascending");
+          th.classList.toggle("descending", !ascending);
+
+          // Remove sorting indicators from other columns
+          thead.querySelectorAll("th").forEach(otherTh => {
+            if (otherTh !== th) {
+              otherTh.classList.remove("ascending", "descending");
+            }
+          });
+
+          rows.sort(function (a, b) {
+            const aText = a.children[colIndex].innerText.trim();
+            const bText = b.children[colIndex].innerText.trim();
+
+            const aNum = parseFloat(aText.replace(/[^0-9.\-]/g, ""));
+            const bNum = parseFloat(bText.replace(/[^0-9.\-]/g, ""));
+
+            if (!isNaN(aNum) && !isNaN(bNum)) {
+              return ascending ? aNum - bNum : bNum - aNum;
+            }
+            return ascending
+              ? aText.localeCompare(bText)
+              : bText.localeCompare(aText);
+          });
+
+          const tbody = table.querySelector("tbody");
+          rows.forEach(row => tbody.appendChild(row));
+        });
+      });
+    });
+  });
+</script>
+<!-- end custom footer snippets -->
