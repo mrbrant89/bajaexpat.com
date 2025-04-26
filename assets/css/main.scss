@@ -162,13 +162,13 @@ th {
 */
 
 ::selection {
-  background-color: rgba(93, 177, 180, 0.2); /* Light red background */
-  color: white; /* White text */
+  background-color: rgba(93, 177, 180, 0.2);
+  color: black;
 }
 
 ::-moz-selection {
-  background-color: rgba(93, 177, 180, 0.2); /* Light red background */
-  color: white; /* White text */
+  background-color: rgba(93, 177, 180, 0.2);
+  color: black;
 }
 
 /* Prefer to Listen Instead? */
@@ -222,4 +222,92 @@ figure.post-audio {
 #language-switcher option {
   color: #000000;
   background: #ffffff;
+}
+
+/* Card Grid for Blog Posts */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e1e1e1;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.1);
+}
+
+.card h4 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.card p {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Infographic Caption Layout */
+.infographic-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.caption-text {
+  flex: 1 1 60%;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.caption-download {
+  flex: 1 1 40%;
+  text-align: right;
+}
+
+.caption-download .btn {
+  background-color: #5DB1B4;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.caption-download .btn:hover {
+  background-color: #4aa4a7;
+}
+
+/* Mobile stacking */
+@media (max-width: 600px) {
+  .infographic-caption {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .caption-download {
+    text-align: left;
+    margin-top: 0.75rem;
+  }
 }

@@ -329,6 +329,7 @@ DEPENDENCIES
   faraday-retry
   github-pages
   jekyll-include-cache
+  jekyll-redirect-from
 
 BUNDLED WITH
    2.6.5
