@@ -100,15 +100,15 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Organization" # Person or Organization (defaults to Person)
+  name                   : "Baja Expat" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-JP0JNX61YK"
+    tracking_id          : "G-4YPQHMW35B"
     anonymize_ip         : false # true, false (default)
 
 
@@ -122,19 +122,19 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://wokedissident.com"
+      # url: "https://bajaexpat.com"
     - label: "BlueSky"
       icon: "fab fa-brands fa-square-bluesky"
-      url: "https://bsky.app/profile/wokedissident.bsky.social/"
+      url: "https://bsky.app/profile/bajaexpat.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/bajaexpat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/bajaexpat"
 
 # Site Footer
 footer:
