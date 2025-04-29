@@ -311,3 +311,69 @@ figure.post-audio {
     margin-top: 0.75rem;
   }
 }
+
+/* Resources Category Page */
+.archive-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.archive-grid .archive__item {
+  width: 32%;
+  margin-bottom: 2em;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 1em;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+  transition: transform 0.2s ease;
+  border-radius: 8px;
+}
+
+.archive-grid .archive__item:hover {
+  transform: translateY(-3px);
+}
+
+.archive-grid .archive__item-teaser img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.archive-grid .archive__item-title {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.archive-grid .archive__item-excerpt {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+.archive__item-badge {
+  display: inline-block;
+  color: white;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 900px) {
+  .archive-grid .archive__item {
+    width: 48%;
+  }
+}
+
+@media (max-width: 600px) {
+  .archive-grid .archive__item {
+    width: 100%;
+  }
+}

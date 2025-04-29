@@ -26,6 +26,11 @@ header:
   teaser: /assets/images/2025/04/northern-baja-police-rights-guide-575px.jpg
   og_image: /assets/images/2025/04/northern-baja-police-rights-guide-2048px.jpg
   caption: "[Victor Roque on Pexels](https://www.pexels.com/photo/white-concrete-buildings-446974/)"
+resources_thumb: /assets/images/2025/04/cover-who-can-stop-you.png  
+resources_title: "Know Your Rights on the Road"
+resources_blurb: "Confused about who can stop you in Mexico? This guide walks you through the law, your rights, and how to stay safe and respectful."
+resources_badge: "Legal Guide"
+resources_badge_color: "#5DB1B4"
 toc: true
 published: true
 ---

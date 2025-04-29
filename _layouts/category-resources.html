@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+    {% if page.title %}
+      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+    {% if page.excerpt %}
+      <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+    {% if page.date %}
+      <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+    {% endif %}
+    {% if page.last_modified_at %}
+      <meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">
+    {% endif %}
+
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+
+    <section class="archive-grid" id="archive-grid">
+      {% assign resources_posts = site.categories.Resources %}
+      {% for post in resources_posts %}
+        <article class="archive__item">
+          {% if post.resources_badge %}
+        <div class="archive__item-badge" style="background-color: {{ post.resources_badge_color | default: '#5DB1B4' }};">
+          {{ post.resources_badge }}
+        </div>
+      {% endif %}
+
+          <a href="{{ post.url | relative_url }}" class="archive__item-teaser">
+            {% assign thumb = post.resources_thumb | default: post.teaser %}
+            {% if thumb %}
+              <img src="{{ thumb | relative_url }}" alt="{{ post.title }}">
+            {% endif %}
+          </a>
+
+          <h2 class="archive__item-title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.resources_title | default: post.title }}
+            </a>
+          </h2>
+
+          <p class="archive__item-excerpt">
+            {{ post.resources_blurb | default: post.excerpt | strip_html | truncate: 200 }}
+          </p>
+        </article>
+      {% endfor %}
+    </section>
+  </article>
+</div>
