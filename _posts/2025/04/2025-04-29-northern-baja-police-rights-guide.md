@@ -40,7 +40,7 @@ If you've ever driven in northern Baja California—whether through Tijuana, Ros
 This guide was created to clarify those gray areas that often lead to confusion, intimidation, or worse—especially for foreign residents and tourists unfamiliar with Mexican law. We break down each agency’s mandate, what they are legally allowed to do (and what they are not), and what your rights are in situations ranging from routine traffic stops to military checkpoints.
 
 {: .notice--danger}
-**Disclaimer:** This guide is for educational purposes only and does not constitute legal advice. It draws on the Mexican Constitution, federal laws like the *Código Nacional de Procedimientos Penales (CNPP)* and *Ley de Migración*, local traffic regulations for [Tijuana](https://www.tijuana.gob.mx/reglamentos/Vigentes/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf), [Rosarito](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf), and [Ensenada](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf), as well as government portals from [SEDENA](https://www.sedena.gob.mx/marco-normativo-sedena/ley-organica-del-ejercito-y-fuerza-aerea-mexicanos), [Guardia Nacional](https://www.gob.mx/guardianacional), [FGR](https://www.fgr.org.mx/), [FGE BC](https://www.fgebc.gob.mx/), and the human rights commission [CEDHBC](https://www.cedhbc.org.mx/).
+**Disclaimer:** This guide is for educational purposes only and does not constitute legal advice. It draws on the Mexican Constitution, federal laws like the *Código Nacional de Procedimientos Penales (CNPP)* and *Ley de Migración*, local traffic regulations for [Tijuana](https://www.google.com/search?q=https://www.tijuana.gob.mx/dependencias/consejo/documentos/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf), [Rosarito](https://www.google.com/search?q=https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf), and [Ensenada](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf), as well as government portals from [SEDENA](https://www.gob.mx/sedena), [Guardia Nacional](https://www.gob.mx/guardianacional), [FGR](https://www.gob.mx/fgr), [FGE BC](https://www.fgebc.gob.mx/), and the human rights commission [CEDHBC](https://www.google.com/search?q=https://cedhbc.org.mx/).
 
 ## Meet the Agencies: Who You Might Encounter and Why
 
@@ -50,8 +50,8 @@ Navigating law enforcement in northern Baja means knowing which agency you're de
 
 These are the uniformed officers most likely to stop you for a moving violation. Their authority is limited to their municipality and is based on local traffic laws:
 
-- [Tijuana Traffic Code](https://www.tijuana.gob.mx/reglamentos/Vigentes/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf)
-- [Rosarito Traffic Code](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf)
+- [Tijuana Traffic Code](https://www.google.com/search?q=https://www.tijuana.gob.mx/dependencias/consejo/documentos/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf)
+- [Rosarito Traffic Code](https://www.google.com/search?q=https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf)
 - [Ensenada Traffic Code](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf)
 
 {: .notice--warning}
@@ -71,7 +71,7 @@ They enforce vehicle safety, signage, speed limits, and accident procedures—no
 
   <div class="card">
     <h4>FGR (Federal Prosecutor) and PFM (Federal Ministerial Police)</h4>
-    <p>The <strong>Fiscalía General de la República (FGR)</strong> handles federal crimes: organized crime, drugs, firearms, etc. Their agents—<strong>Policía Federal Ministerial (PFM)</strong>—conduct operations and investigations, not routine patrols. More info at <a href="https://www.fgr.org.mx/" target="_blank" rel="noopener">FGR</a>.</p>
+    <p>The <strong>Fiscalía General de la República (FGR)</strong> handles federal crimes: organized crime, drugs, firearms, etc. Their agents—<strong>Policía Federal Ministerial (PFM)</strong>—conduct operations and investigations, not routine patrols. More info at <a href="https://www.gob.mx/fgr" target="_blank" rel="noopener">FGR</a>.</p>
   </div>
 
 <style type="text/css">
@@ -91,12 +91,12 @@ They enforce vehicle safety, signage, speed limits, and accident procedures—no
 
   <div class="card">
     <h4>Guardia Nacional (GN)</h4>
-    <p>Created in 2019, the GN blends military and civilian policing and operates nationwide, especially on highways and in areas of federal interest. They can stop vehicles, make arrests, and run checkpoints, especially for federal crime enforcement or highway safety. Reference: <a href="https://www.gob.mx/guardianacional" target="_blank" rel="noopener">Guardia Nacional</a>, <a href="https://www.gob.mx/guardianacional/documentos/ley-de-la-guardia-nacional-207288" target="_blank" rel="noopener">Ley de la Guardia Nacional</a>.</p>
+    <p>Created in 2019, the GN blends military and civilian policing and operates nationwide, especially on highways and in areas of federal interest. They can stop vehicles, make arrests, and run checkpoints, especially for federal crime enforcement or highway safety. Reference: <a href="https://www.gob.mx/guardianacional" target="_blank" rel="noopener">Guardia Nacional</a>, <a href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LNGN.pdf" target="_blank" rel="noopener">Ley de la Guardia Nacional</a>.</p>
   </div>
 
   <div class="card">
     <h4>SEDENA (Secretaría de la Defensa Nacional – Military)</h4>
-    <p>Military presence is common in Baja, but <strong>soldiers cannot lawfully stop or search civilians on their own</strong>. Their public security role is restricted unless they’re accompanying police or operating within an officially sanctioned checkpoint. This is backed by Article 129 of the Constitution and confirmed in reporting from <a href="https://zetatijuana.com/2023/05/militares-no-estan-facultados-para-detener-civiles-ni-revisar-vehiculos-abogados" target="_blank" rel="noopener">Zeta Tijuana</a> and <a href="https://www.sandiegouniontribune.com/en-espanol/noticias/bc/articulo/2023-05-12/militares-no-pueden-detener-a-civiles-ni-revisar-vehiculos-sin-orden-judicial-o-flagrancia-abogados" target="_blank" rel="noopener">San Diego Union-Tribune</a>.</p>
+    <p>Military presence is common in Baja, but <strong>soldiers cannot lawfully stop or search civilians on their own</strong>. Their public security role is restricted unless they’re accompanying police or operating within an officially sanctioned checkpoint. This is backed by Article 129 of the Constitution and confirmed in reporting from <a href="https://zetatijuana.com/2023/06/inteligencia-poca-y-limitada-general-leopoldo-tizoc-aguilar-duran/" target="_blank" rel="noopener">Zeta Tijuana</a> and <a href="https://www.sandiegouniontribune.com/2023/01/24/mxico-ejrcito-no-tiene-que-informar-a-polica-de-arrestos/" target="_blank" rel="noopener">San Diego Union-Tribune</a>.</p>
   </div>
 
 </div>
@@ -107,14 +107,14 @@ Understanding who can lawfully stop your vehicle in northern Baja—and under wh
 
 ### Legal Framework: Article 16 of the Mexican Constitution
 
-The cornerstone of personal protection against arbitrary stops in Mexico is **Article 16 of the Mexican Constitution**, which states that "no one may be disturbed in their person, family, domicile, papers or possessions, except by written order of a competent authority"—with precise legal justification ([CPEUM, Art. 16](https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm)).
+The cornerstone of personal protection against arbitrary stops in Mexico is **Article 16 of the Mexican Constitution**, which states that "no one may be disturbed in their person, family, domicile, papers or possessions, except by written order of a competent authority"—with precise legal justification ([CPEUM, Art. 16](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf)).
 
 {: .notice--warning}
 Exceptions exist, especially in cases of **flagrancia** (being caught in the act of committing a crime) or when there is **reasonable suspicion** grounded in objective facts.
 
 ### Policía de Tránsito: Municipal-Level Traffic Enforcement
 
-The **Policía de Tránsito** in each municipality—Tijuana, Rosarito, and Ensenada—can legally stop vehicles **only if a traffic law appears to have been violated**. These laws are outlined in their respective Reglamento de Tránsito ([Tijuana](https://www.tijuana.gob.mx/reglamentos/Vigentes/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf), [Rosarito](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf), [Ensenada](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf)). If there’s no visible infraction (e.g., speeding, missing plate, illegal turn), the stop may be unlawful.
+The **Policía de Tránsito** in each municipality—Tijuana, Rosarito, and Ensenada—can legally stop vehicles **only if a traffic law appears to have been violated**. These laws are outlined in their respective Reglamento de Tránsito ([Tijuana](https://www.ordenjuridico.gob.mx/Estatal/BAJA%20CALIFORNIA/Municipios/Tijuana/TijuanaReg17.pdf), [Rosarito](https://www.rosarito.gob.mx/docs/sindicatura/POE-157-213.pdf), [Ensenada](https://www.ensenada.gob.mx/wp-content/uploads/2021/11/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-Baja-California.pdf)). If there’s no visible infraction (e.g., speeding, missing plate, illegal turn), the stop may be unlawful.
 
 ### Policía Municipal: Broader Powers with Limits
 
@@ -133,7 +133,7 @@ The **Guardia Nacional (GN)** operates nationwide, often focusing on **federal h
 - Reasonable suspicion of federal crimes (e.g., weapons, smuggling)
 - At designated and legal **federal checkpoints**
 
-GN authority is grounded in both the **Ley de la Guardia Nacional** ([Ley GN](https://www.gob.mx/guardianacional/documentos/ley-de-la-guardia-nacional-207288)) and federal protocols ([GN official site](https://www.gob.mx/guardianacional/articulos/guardia-nacional-institucion-responsable-de-la-seguridad-publica-en-mexico)).
+GN authority is grounded in both the **Ley de la Guardia Nacional** ([Ley GN](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf)) and federal protocols ([GN official site](https://www.gob.mx/cms/uploads/attachment/file/637215/PROTOCOLO_DE_VIGILANCIA_Y_MEDIDAS_DE_ACTUACIO_N.PDF)).
 
 ### FGE and FGR: Investigative Agencies, Not Routine Patrol
 
@@ -156,7 +156,7 @@ They **do not** patrol for general enforcement and generally cannot stop vehicle
 - They are part of a legally sanctioned checkpoint with civilian oversight
 - They are directly supporting an operation led by civilian police
 
-Military-only stops without civilian agents present may **violate Article 129** of the Constitution ([SEDENA framework](https://www.sedena.gob.mx/marco-normativo-sedena/ley-organica-del-ejercito-y-fuerza-aerea-mexicanos)). Legal scholars and journalists confirm this limit ([Zeta Tijuana, May 2023](https://zetatijuana.com/2023/05/militares-no-estan-facultados-para-detener-civiles-ni-revisar-vehiculos-abogados), [San Diego Union-Tribune](https://www.sandiegouniontribune.com/en-espanol/noticias/bc/articulo/2023-05-12/militares-no-pueden-detener-a-civiles-ni-revisar-vehiculos-sin-orden-judicial-o-flagrancia-abogados)).
+Military-only stops without civilian agents present may **violate Article 129** of the Constitution ([SEDENA framework](https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf)). Legal scholars and journalists confirm this limit ([Zeta Tijuana, May 2023](https://zetatijuana.com/2024/04/fracaso-la-guardia-nacional-en-bc/), [San Diego Union-Tribune](https://www.sandiegouniontribune.com/2023/01/24/mxico-ejrcito-no-tiene-que-informar-a-polica-de-arrestos/)).
 
 ## Search Me? Searches, Exits, and Passenger Rights
 
@@ -213,7 +213,7 @@ The **Instituto Nacional de Migración (INM)** is the sole authority empowered t
 - Conduct immigration inspections at checkpoints, airports, or offices
 - Detain and process individuals for immigration violations
 
-This is established under the **Ley de Migración** ([Ley de Migración PDF, Article 20](https://www.diputados.gob.mx/LeyesBiblio/pdf/LeyMigra.pdf)) and explained in INM’s public-facing [Know Your Rights and Obligations Guide](https://www.gob.mx/inm/acciones-y-programas/conoce-tus-derechos-y-obligaciones-en-mexico).
+This is established under the **Ley de Migración** ([Ley de Migración PDF, Article 20](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf)) and explained in INM’s public-facing [Know Your Rights and Obligations Guide](https://www.inm.gob.mx/static/pdf/DH_PERSONAS_MIGRANTES_TRANSITAN_MEXICO.pdf).
 
 ### What Other Agencies *Can’t* Do
 
@@ -238,7 +238,7 @@ There are **limited exceptions** where other agencies may participate:
 
 ### Discrimination and Profiling
 
-Mexican law and the **Constitution (Article 11)** guarantee freedom of movement within the country and protect against arbitrary detentions. Demands for immigration status based on appearance, accent, or assumptions are not only improper—they can be a basis for a **human rights complaint** with [CEDHBC](https://www.cedhbc.org.mx/) or [CNDH](https://www.cndh.org.mx/).
+Mexican law and the **Constitution (Article 11)** guarantee freedom of movement within the country and protect against arbitrary detentions. Demands for immigration status based on appearance, accent, or assumptions are not only improper—they can be a basis for a **human rights complaint** with [CEDHBC](https://derechoshumanosbc.org/) or [CNDH](https://www.cndh.org.mx/).
 
 ## Tickets and Fines: How the Process Should Work
 
@@ -257,9 +257,9 @@ For any alleged violation, officers must issue a **written citation**, called a 
 - Clear payment instructions and deadlines
 
 Relevant municipal regulations include:
-- [Tijuana Reglamento de Tránsito](https://www.tijuana.gob.mx/reglamentos/Vigentes/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf)
-- [Rosarito Reglamento de Tránsito](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf)
-- [Ensenada Reglamento de Tránsito](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf)
+- [Tijuana Reglamento de Tránsito](https://www.ordenjuridico.gob.mx/Estatal/BAJA%20CALIFORNIA/Municipios/Tijuana/TijuanaReg17.pdf)
+- [Rosarito Reglamento de Tránsito](https://www.rosarito.gob.mx/docs/sindicatura/POE-157-213.pdf)
+- [Ensenada Reglamento de Tránsito](https://www.ensenada.gob.mx/wp-content/uploads/2021/11/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-Baja-California.pdf)
 
 {: .notice--danger}
 Receiving a properly filled boleta is essential. If an officer refuses to provide one, or demands immediate cash, that's a major red flag.
@@ -267,7 +267,7 @@ Receiving a properly filled boleta is essential. If an officer refuses to provid
 ### You Do Not Have to Follow Officers to the Station
 
 The **Consulado Mexicano guidance** for tourists clearly states:  
-> “If you are stopped by the police, you should not be asked to follow the officer to the station. A ticket should be issued on the spot”  ([Consulate Guide](https://consulmex.sre.gob.mx/sandiego/index.php/foreigners/information-foreigners/185-recomendaciones-sobre-seguridad-a-turistas)).
+> “If you are stopped by the police, you should not be asked to follow the officer to the station. A ticket should be issued on the spot”  ([Fodors Travel Guide](https://www.fodors.com/world/mexico-and-central-america/mexico/experiences/news/what-to-do-if-youre-pulled-over-by-police-while-driving-in-mexico)).
 
 {: .notice--danger}
 Unless you are being **formally detained** for something more serious (like DUI or resisting authority), you should receive a citation and be free to go.
@@ -298,8 +298,8 @@ Typical fine ranges in Tijuana, Rosarito, and Ensenada based on 2024 UMA values:
 | DUI (Drunk Driving) | 50–100+ UMA | $5,429–$10,857+ |
 
 Sources:  
-- [Tijuana fines update 2024 - El Sol de Tijuana](https://www.elsoldetijuana.com.mx/local/costo-de-multas-de-transito-en-tijuana-aumentaran-en-2024-11370027.html)  
-- [Tijuana fines overview - San Diego Red](https://www.sandiegored.com/es/noticias/249986/Multas-de-transito-en-Tijuana-subiran-de-precio-en-2024-Conoce-los-nuevos-costos)
+- [Tijuana fines update 2024 - Autofact](https://www.autofact.com.mx/blog/mi-carro/infracciones/multas-tijuana)  
+- [Collection of Traffic Fines - Tijuana Government](https://www.tijuana.gob.mx/tramite.aspx?tramite=313)
 
 {: .notice--success}
 Knowing these ranges helps spot inflated fine demands, another common extortion tactic.
@@ -320,8 +320,8 @@ These constitutional rights have been interpreted to include the right to **reco
 While not explicitly codified in a single law as "the right to film police," human rights commissions and courts consistently uphold this interpretation.
 
 Relevant guidance:
-- [CEDHBC Statement on Right to Document Police Acts](https://www.cedhbc.org.mx/cedhbc-informa-sobre-el-derecho-a-la-libertad-de-expresion-y-a-documentar-actos-de-autoridad/)
-- [Animal Político report on filming legality and risks](https://www.animalpolitico.com/sociedad/grabar-policias-mexico-legal-riesgos)
+- [CEDHBC Statement on Right to Document Police Acts](https://www.cndh.org.mx/pagina/derechos-libertad-de-expresion)
+- [Animal Político report on filming legality and risks](https://animalpolitico.com/analisis/organizaciones/trabajamos-por-los-derechos-humanos-en-el-mundo/periodistas-amenazas-autoridades-delincuencia)
 
 ### Practical Best Practices When Filming
 
@@ -353,7 +353,7 @@ If an officer illegally orders you to stop:
 - Comply if necessary for safety.
 - State aloud that you are stopping under protest (e.g., "Estoy dejando de grabar porque me lo ordenan bajo amenaza").
 - Keep the device safe and secure any footage immediately if possible.
-- Report the incident to the relevant oversight body later (e.g., [CEDHBC](https://www.cedhbc.org.mx/) or [CNDH](https://www.cndh.org.mx/)).
+- Report the incident to the relevant oversight body later (e.g., [CEDHBC](https://derechoshumanosbc.org/) or [CNDH](https://www.cndh.org.mx/)).
 
 ## Red Flags: Spotting Extortion or Impersonation
 
@@ -361,7 +361,7 @@ Unfortunately, incidents of police misconduct, including extortion and impersona
 
 ### Common Extortion Tactics
 
-According to reports from [BajaBound](https://www.bajabound.com/guide/police_in_mexico.php) and [Mexico Relocation Guide](https://mexicorelocationguide.com/driving-in-mexico/), common red flags for extortion attempts include:
+According to reports from [Discover Baja Travel Club](https://www.discoverbaja.com/2013/11/14/getting-pulled-over-by-the-police-in-baja-know-your-rights/) and [Mexico Relocation Guide](https://mexicorelocationguide.com/driving-in-mexico/), common red flags for extortion attempts include:
 
 - **Immediate demand for cash** at the scene rather than issuing a formal boleta de infracción.
 - **Threats of jail time** for minor traffic violations (e.g., speeding, seatbelt infractions) unless a "fine" is paid immediately.
@@ -421,9 +421,9 @@ In suspicious situations:
 If you believe you encountered extortion or impersonation:
 
 - Report to your city’s **Sindicatura Procuradora**:
-  - [Tijuana Reporting Portal](https://www.tijuana.gob.mx/dependencias/sindicatura/Denuncia.aspx)
-  - [Rosarito Sindicatura](https://www.rosarito.gob.mx/ayuntamiento/sindicatura/)
-  - [Ensenada Complaint Site](https://www.ensenada.gob.mx/?page_id=605)
+  - [Tijuana Reporting Portal](http://www.sindicatura.gob.mx/#/default)
+  - [Rosarito Sindicatura - go in person](https://www.rosarito.gob.mx/directorio/)
+  - [Ensenada Complaint Site](https://sindicaturaensenada.gob.mx/declaranet/)
 - File a **criminal complaint (denuncia penal)** with the **FGE Baja California** or **FGR** for impersonation or corruption.
 
 {: .notice--warning}
@@ -437,9 +437,9 @@ If you experience misconduct—whether extortion, abuse of authority, or imperso
 
 For issues involving **Municipal Police** or **Traffic Police (Policía de Tránsito)**, each municipality has an independent oversight office called the **Sindicatura Procuradora**, tasked with investigating administrative misconduct like extortion or abuse of authority.
 
-- **Tijuana**: [File a complaint here](https://www.tijuana.gob.mx/dependencias/sindicatura/Denuncia.aspx)
-- **Rosarito**: [Rosarito complaint portal](https://www.rosarito.gob.mx/ayuntamiento/sindicatura/)
-- **Ensenada**: [Ensenada Sindicatura page](https://www.ensenada.gob.mx/?page_id=605)
+- **Tijuana**: [File a complaint here](http://www.sindicatura.gob.mx/#/default)
+- **Rosarito**: [Rosarito - In Person Only](https://www.rosarito.gob.mx/directorio/)
+- **Ensenada**: [Ensenada Sindicatura page](https://sindicaturaensenada.gob.mx/declaranet/)
 
 Sindicaturas investigate, recommend sanctions, and sometimes refer cases to prosecutors for criminal investigation.
 
@@ -455,8 +455,8 @@ They oversee disciplinary actions against state-level law enforcement personnel.
 
 For misconduct involving **Federal Police**, **Guardia Nacional**, or the **military (SEDENA)**:
 
-- **Guardia Nacional**: File with the [Unidad de Asuntos Internos](https://www.gob.mx/guardianacional).
-- **FGR Agents (Federal Prosecutors and Policía Federal Ministerial)**: Use [FGR’s reporting portal](https://www.fgr.org.mx/es/FGR/Denuncia_desde_el_Extranjero) or visit a federal delegation office.
+- **Guardia Nacional**: File with the [Unidad de Asuntos Internos](https://www.gob.mx/epn/policiafederal/articulos/unidad-de-asuntos-internos-125866?idiom=es).
+- **FGR Agents (Federal Prosecutors and Policía Federal Ministerial)**: Use [FGR’s reporting portal](https://www.gob.mx/fgr/acciones-y-programas/denuncias-fgr) or visit a federal delegation office.
 - **SEDENA**: Cases involving soldiers are usually referred through human rights commissions or the military’s own internal justice system.
 
 {: .notice--danger}
@@ -473,7 +473,7 @@ For any **serious abuses of authority**, such as:
 
 You can file complaints with human rights commissions:
 
-- **State level**: [Comisión Estatal de Derechos Humanos de Baja California (CEDHBC)](https://www.cedhbc.org.mx/)
+- **State level**: [Comisión Estatal de Derechos Humanos de Baja California (CEDHBC)](https://derechoshumanosbc.org/)
 - **National level**: [Comisión Nacional de Derechos Humanos (CNDH)](https://www.cndh.org.mx/)
 
 These commissions independently investigate abuses and issue public recommendations.
@@ -484,20 +484,6 @@ If you are a **U.S. citizen** (or citizen of another country) facing serious mis
 
 - Contact the [U.S. Consulate General in Tijuana](https://mx.usembassy.gov/tijuana/).
 - Most embassies offer citizen protection services, can assist with documentation, and sometimes intervene with local authorities.
-
-### Quick Reference Table
-
-| Complaint Type | Reporting Body | Portal/Link |
-|:---------------|:----------------|:------------|
-| Municipal Police (e.g., Tijuana) | Sindicatura Procuradora | [Tijuana Sindicatura](https://www.tijuana.gob.mx/dependencias/sindicatura/Denuncia.aspx) |
-| State Agents (AEI/FGE) | Órgano Interno de Control - FGE BC | [FGE BC](https://www.fgebc.gob.mx/) |
-| Federal Agents (Guardia Nacional) | Guardia Nacional Asuntos Internos | [GN Internal Affairs](https://www.gob.mx/guardianacional) |
-| Federal Prosecutors/Investigators | FGR Reporting Portal | [FGR Complaints](https://www.fgr.org.mx/es/FGR/Denuncia_desde_el_Extranjero) |
-| Human Rights (State) | CEDHBC | [CEDHBC Complaints](https://www.cedhbc.org.mx/) |
-| Human Rights (National) | CNDH | [CNDH](https://www.cndh.org.mx/) |
-| U.S. Citizens | U.S. Consulate Tijuana | [Consulate Contact](https://mx.usembassy.gov/tijuana/) |
-
-Having these official channels at your fingertips not only empowers you to defend your rights, but it also increases accountability for abuses across Baja California’s law enforcement landscape.
 
 ## Knowledge, Calm, and Preparedness
 
