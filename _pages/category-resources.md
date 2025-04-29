@@ -8,7 +8,7 @@ header:
   caption: "[Efrain Alonso on Pexels](https://www.pexels.com/photo/el-arco-de-cabo-san-lucas-under-white-and-blue-sky-3314864/)"
   actions:
     - label: "View All Guides"
-      url: "#archive-grid"
+      url: "/resources#archive-grid"
       class: "btn btn--primary"
 excerpt: "Helpful tools and how-to articles to support respectful integration into Mexican life."
 ---
