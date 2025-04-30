@@ -40,7 +40,7 @@ If you've ever driven in northern Baja California—whether through Tijuana, Ros
 This guide was created to clarify those gray areas that often lead to confusion, intimidation, or worse—especially for foreign residents and tourists unfamiliar with Mexican law. We break down each agency’s mandate, what they are legally allowed to do (and what they are not), and what your rights are in situations ranging from routine traffic stops to military checkpoints.
 
 {: .notice--danger}
-**Disclaimer:** This guide is for educational purposes only and does not constitute legal advice. It draws on the Mexican Constitution, federal laws like the *Código Nacional de Procedimientos Penales (CNPP)* and *Ley de Migración*, local traffic regulations for [Tijuana](https://www.tijuana.gob.mx/dependencias/consejo/documentos/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf), [Rosarito](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf), and [Ensenada](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf), as well as government portals from [SEDENA](https://www.gob.mx/sedena), [Guardia Nacional](https://www.gob.mx/guardianacional), [FGR](https://www.gob.mx/fgr), [FGE BC](https://www.fgebc.gob.mx/), and the human rights commission [CEDHBC](https://www.google.com/search?q=https://cedhbc.org.mx/).
+**Disclaimer:** This guide is for educational purposes only and does not constitute legal advice. It draws on the Mexican Constitution, federal laws like the *Código Nacional de Procedimientos Penales (CNPP)* and *Ley de Migración*, local traffic regulations for [Tijuana](https://www.tijuana.gob.mx/dependencias/consejo/documentos/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf), [Rosarito](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf), and [Ensenada](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf), as well as government portals from [SEDENA](https://www.gob.mx/sedena), [Guardia Nacional](https://www.gob.mx/guardianacional), [FGR](https://www.gob.mx/fgr), [FGE BC](https://www.fgebc.gob.mx/), and the human rights commission [CEDHBC](https://cedhbc.org.mx/).
 
 ## Meet the Agencies: Who You Might Encounter and Why
 
@@ -50,8 +50,8 @@ Navigating law enforcement in northern Baja means knowing which agency you're de
 
 These are the uniformed officers most likely to stop you for a moving violation. Their authority is limited to their municipality and is based on local traffic laws:
 
-- [Tijuana Traffic Code](https://www.google.com/search?q=https://www.tijuana.gob.mx/dependencias/consejo/documentos/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf)
-- [Rosarito Traffic Code](https://www.google.com/search?q=https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf)
+- [Tijuana Traffic Code](https://www.tijuana.gob.mx/dependencias/consejo/documentos/Reglamento_Transito_Control_Vehicular_Municipio_Tijuana.pdf)
+- [Rosarito Traffic Code](https://www.rosarito.gob.mx/transparencia/marco-normativo/reglamentos/REGLAMENTO%2520DE%2520TRANSITO%2520PARA%2520EL%2520MUNICIPIO%2520DE%2520PLAYAS%2520DE%2520ROSARITO,%2520B.%2520C..pdf)
 - [Ensenada Traffic Code](https://www.ensenada.gob.mx/transparencia/wp-content/uploads/2021/03/Reglamento-de-Transito-para-el-Municipio-de-Ensenada-B.C..pdf)
 
 {: .notice--warning}
